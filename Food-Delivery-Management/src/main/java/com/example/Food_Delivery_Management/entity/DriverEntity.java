@@ -10,7 +10,7 @@ public class DriverEntity {
     private String id;
 
     private String name;
-    private String status; // Avilable or Busy
+    private String status; 
     private String currentOrderId;
     private int nextAvilableAt;
 
